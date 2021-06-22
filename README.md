@@ -1,1 +1,3 @@
-# valaxy-simpleCICDPIPELINE
+# maven-project
+
+Simple Maven Project
